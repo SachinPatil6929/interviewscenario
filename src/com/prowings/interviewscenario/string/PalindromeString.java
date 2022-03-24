@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class PalindromeString {
 	public static void main(String[] args) {
 		String s1 = "Sachin";
-		boolean res;
+		//boolean res;
 		s1=s1.toLowerCase();
 		System.out.println(s1);
 		char[]str1 = s1.toCharArray();
